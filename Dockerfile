@@ -1,4 +1,4 @@
-FROM php:7.3.5-fpm-alpine3.9
+FROM alpine:3.9
 LABEL maintainer="Barabanov.mikle@gmail.com"
 
 WORKDIR /var/www/html
