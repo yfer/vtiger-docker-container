@@ -1,0 +1,4 @@
+[submodule "hmfest.ru"]
+	path = hmfest.ru
+	url = https://github.com/yfer/hmfest.ru.git
+	branch = master
