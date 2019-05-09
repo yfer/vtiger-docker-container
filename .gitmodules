@@ -1,4 +1,4 @@
-[submodule "hmfest.ru"]
-	path = hmfest.ru
-	url = https://github.com/yfer/hmfest.ru.git
-	branch = master
+[submodule "vtigercrm"]
+	path = vtigercrm
+	url = http://code.vtiger.com/vtiger/vtigercrm.git
+	branch = 7.1.0h3

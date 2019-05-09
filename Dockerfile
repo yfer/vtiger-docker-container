@@ -3,6 +3,6 @@ LABEL maintainer="Barabanov.mikle@gmail.com"
 
 WORKDIR /code
 
-ADD ./hmfest.ru /code
+ADD ./vtigercrm /code
 VOLUME /code
 # RUN chmod -R 775 . && chown -R www-data:www-data .
