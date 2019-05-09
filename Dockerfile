@@ -12,5 +12,4 @@ WORKDIR /var/www/html
 # COPY vtiger.ini /usr/local/etc/php/conf.d/
 
 ADD ./hmfest.ru .
-# ADD index.php .
-# RUN chmod -R 775 . && chown -R www-data:www-data .
+RUN chmod -R 775 . && chown -R www-data:www-data .
